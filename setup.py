@@ -17,7 +17,7 @@ requirements = [
     "gitpython",
     "torch",
     "keras==2.3.1",
-    "tensorflow==1.15",
+    "tensorflow>=1.15",
     "Pillow",
     "cornet @ git+https://github.com/dicarlolab/CORnet",
     "vonenet @ git+https://github.com/dicarlolab/vonenet",
